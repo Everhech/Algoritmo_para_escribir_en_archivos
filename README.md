@@ -1,2 +1,2 @@
 # Algoritmo_para_leer_archivos
-Lee un archivo .txt
+Escribe en un archivo .txt
